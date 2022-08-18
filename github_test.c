@@ -6,4 +6,7 @@ int main(void)
 
     // Added this part
     printf("This is added part for test");
+
+    // add
+    printf("second file was added and first file was modified.");
 } 
